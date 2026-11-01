@@ -17,6 +17,11 @@ Leaderboard snapshot of 2026-10-31 17:14 CET (speedup = geomean over the board's
 | prefill layer | 1.9134 | #29 | 729 | 2.0325 (zzz0906) | 6.2% |
 | MoE W4A16 (NVFP4) | 2.4203 | #58 | 1219 | 2.7578 (dolanzhao) | 13.9% |
 
+**Open-source standing.** As of 2026-11-01 this is the highest-ranked publicly available OKC code we know of on all five
+boards. The other public submissions we tracked rank lower (best: alygg77, decode #132, MoE #79, attention #80, bf16
+#162, prefill #57; then vjeux, chenwainuo, NathenFernandes, Madhavan113). ZhimaoL (decode #29) published their branches in
+a public sglang fork but deleted them on 2026-11-01. Repos we did not find are not counted.
+
 A board row keeps a team's best submission, and the judge's run-to-run noise is about +-1.5% (1 sigma ~0.63%), so some rows are
 high draws of these files. The judge's own numbers for the files in this repo:
 
