@@ -1,5 +1,8 @@
 # muse-open-kernel-challenge
 
+UPDATE: I am kinda tired of this, its all just running agents, nothing interesting. Regarding my current #1 submit disregard it, its judgemaxxed,
+showing how weak the checks are, I was just having fun and I wish the actual best guys to win!
+
 Team **keell0renz**'s best fair kernels from the OKC Muse Spark Open Kernel Challenge (H200 SXM, `sm_90a`). One file per
 board, each the exact file the judge timed (or a judge-checked successor of it). No cheats, no luck tricks in the code.
 
